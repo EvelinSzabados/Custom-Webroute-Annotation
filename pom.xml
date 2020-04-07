@@ -7,6 +7,13 @@
     <groupId>com.codecool</groupId>
     <artifactId>Webroute</artifactId>
     <version>1.0-SNAPSHOT</version>
+<dependencies>
+    <dependency>
+        <groupId>com.j2html</groupId>
+        <artifactId>j2html</artifactId>
+        <version>1.3.0</version>
+    </dependency>
 
+</dependencies>
 
 </project>
